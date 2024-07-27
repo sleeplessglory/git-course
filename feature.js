@@ -1,1 +1,1 @@
-//Feature's gonna scroll to the top of the page!
+//Feature's gonna scroll down to the bottom of the page
