@@ -1,3 +1,3 @@
 //Here's gonna be the new feature
 //Thoughts will be displayed over here
-//Feature's gonna cover the issues!
+//This new feature ain't gonna cover the issues!
