@@ -1,3 +1,4 @@
 Let's squash the upcoming commits!
 Another commit.
 And one more commit.
+Let's check if we're done for today...
